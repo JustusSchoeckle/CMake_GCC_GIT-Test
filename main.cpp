@@ -8,7 +8,7 @@ int main()
 
     std::cin >> input;
 
-    std::cout << "Hi " + input + "!\n";
+    std::cout << "Hi " + input + ", what a nice name!\n";
 
     std::cin.get();
 
